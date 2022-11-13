@@ -1,0 +1,22 @@
+{{ define "main" }}
+<head>
+<link rel="stylesheet" href="/css/listt.css">
+</head>
+<div class="main">
+<ul>{{ range .Pages }}
+<li>
+<b> <a href="{{.Permalink}}"> {{ .Title }}</a> </b>    
+</li>{{ end }}
+</ul>
+<style>
+      * {
+            background-color: #08161A;  
+            color: #bababa;
+      }
+
+      a {
+        color: #bababa;
+      }
+
+</style>
+</div>{{ end }}
