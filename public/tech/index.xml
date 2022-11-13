@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Teches on Ikhsannhuda | @ikhsannhuda</title>
-    <link>/tech/</link>
+    <link>https://acoffeetr.github.io/berfikirdanmenulis/tech/</link>
     <description>Recent content in Teches on Ikhsannhuda | @ikhsannhuda</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 23 Oct 2022 02:12:34 +0700</lastBuildDate><atom:link href="/tech/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 23 Oct 2022 02:12:34 +0700</lastBuildDate><atom:link href="https://acoffeetr.github.io/berfikirdanmenulis/tech/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Typescript Series</title>
-      <link>/tech/typescript-series/</link>
+      <link>https://acoffeetr.github.io/berfikirdanmenulis/tech/typescript-series/</link>
       <pubDate>Sun, 23 Oct 2022 02:12:34 +0700</pubDate>
       
-      <guid>/tech/typescript-series/</guid>
+      <guid>https://acoffeetr.github.io/berfikirdanmenulis/tech/typescript-series/</guid>
       <description>why use typeS and when</description>
     </item>
     
